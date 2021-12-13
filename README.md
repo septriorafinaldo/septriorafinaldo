@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @septriorafinaldo
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning android developer
+- 🌱 I’m currently learning mobile developer
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me septrio03@gmail.com
 
